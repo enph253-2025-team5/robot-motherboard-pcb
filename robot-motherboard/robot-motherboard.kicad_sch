@@ -1,0 +1,20 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "5002c42d-6b75-496b-94db-e684a4d90bf0")
+	(paper "A4")
+	(title_block
+		(title "Robot Motherboard")
+		(rev "A")
+		(company "Team 5")
+		(comment 1 "George Sleen")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
